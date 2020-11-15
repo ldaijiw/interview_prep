@@ -51,19 +51,39 @@
 
 **WHAT ARE THE DIFFERENCES BETWEEN AGILE, V-MODEL, WATERFALL; AS WELL AS THEIR USE CASES?**
 
+- The Waterfall methodology is a linear project management approach, where stakeholder and customer requirements are gathered at the beginning of the project, and then a sequential project plan is created to accomate those requirements
+- The V-Model, also known as Verification and Validation Model, is a type of SDLC model based on the association of a testing phase for each corresponding development stage
+- V-Model is especially useful for ensuring a high quality end product due to the quality assurance measures throughout it's lifecycle
+- Waterfall has a relatively simple structure with clearly defined project phases with costs and workload estimated at the beginning of the project, however errors can sometimes be recognised only by the end of the development process
+- Both of these methodologies are also rigid, they lack flexibility and makes it hard for teams to adapt and improve their direction along the way, whereas Agile is fast to deliver small increments and allows room for flexibility.
+
 ## SQL Questions
 
 **WHAT IS A FOREIGN KEY**
 
+- A foreign key is a primary key that exists in a separate table, which builds the relationship to the primary table.
+
 **WHAT IS DML/DDL**
+
+- DML is Data Manipulation Language, referring to the group of commands that allow several actions with an SQL database: select, insert, update, delete
+- DDL is Data Definition Language is a standard for commands to define different structures in a database, common commands include: create, alter, drop, truncate
 
 ## Python Questions
 
 **WHAT IS OOP AND THE FOUR PILLARS**
 
+- Object Oriented Programming is a programming style that focuses on the usage of objects/data, rather than functions and logic
+- The 4 pillars of OOP are Inheritance, Encapsulation, Abstraction, Polymorphism
+
 **CAN YOU GIVE AN EXAMPLE OF WHEN YOU IMPLEMENTED OOP**
 
+
+
 **WHAT IS TDD AND HOW HAVE YOU USED IT**
+
+- Test driven development employs the usage of specific unit tests that are constructed first, designed to fail, and then code is written to pass these tests
+- Once the code has passed every test it is approved and goes live
+- A coding exercise in JS with a series of tests to ensure that the game logic was applied correctly. As I was unfamiliar with the code at first, the unit tests helped to break down exactly what was required of me.
 
 ## DevOps Questions
 
