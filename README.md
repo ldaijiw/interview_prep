@@ -3,14 +3,14 @@
 
 ## Agile and Scrum Questions
 
-- **WHAT IS AGILE?**
+**WHAT IS AGILE?**
 
 - Agile is a methodology often applied to software development, with a focus on continuous delivery of incremental changes in small timeframes of a few weeks, rather than delivering a monumental change after a year.
 - In general, the Agile manifesto favours interactions and collaborations between developers and customers, with a flexibility to change throughout the course of development.
 - For example, as a result of the consideration of these principles, I have a weekly 121 meeting with my trainer in which we discuss ways for both of us to improve at our respective roles.
 - This is drastically more beneficial than a quarterly performance review as I can work on smaller improvements each week instead of changing everything after a few months.
 
-- **WHAT IS SCRUM?**
+**WHAT IS SCRUM?**
 
 - Scrum is a framework centered around continuous improvement, which also happens to be a core principle of agile.
 - Work is completed in short timeframes also known as sprints, in which the team clearly lays out what has to be done, without necessarily having to worry about the big picture
@@ -18,12 +18,12 @@
 - For example, we use an agile board throughout our training to keep a list of subjects we will eventually cover, with a sprint backlog containing more specific topics to complete for the week.
 - This way we can focus all of our energy on what needs to be done in the week, without having to be concerned of what we'll do in a week or two
 
-- **WHAT IS THE DIFFERENCE BETWEEN AGILE AND SCRUM?**
+**WHAT IS THE DIFFERENCE BETWEEN AGILE AND SCRUM?**
 
 - Agile is a methodology and mindset with principles and ideals, whereas Scrum is an actual framework for getting work done.
 - There are many frameworks that could fit with the Agile methodology
 
-- **WHAT ARE THE 3 AMIGOS**
+**WHAT ARE THE 3 AMIGOS**
 
 - The 3 Amigos is the grouping of 3 types of people:
     - Business analysts, who consider the product requirements
@@ -31,7 +31,7 @@
     - Testers, who discuss test cases to ensure the reliability and quality of the code
 - The 3 Amigos may have meetings from 30 to 60 minutes to discuss the aspects of a user story and ensure everyone is on the same page, each person understanding exactly what they have to do.
 
-- **WHAT ARE SCRUM ROLES, ARTIFACTS, AND CEREMONIES**
+**WHAT ARE SCRUM ROLES, ARTIFACTS, AND CEREMONIES**
 
 - There are 3 Scrum Roles within a team:
     - Product Owner, focused on understanding the business, customer, and market requirements and prioritising work accordingly
@@ -49,29 +49,29 @@
     - Sprint review, team showcases their increment at the end of the sprint to stakeholders for feedback
     - Sprint retrospective, where the team discuss what worked well and what needs to be improved for the next sprint.
 
-- **WHAT ARE THE DIFFERENCES BETWEEN AGILE, V-MODEL, WATERFALL; AS WELL AS THEIR USE CASES?**
+**WHAT ARE THE DIFFERENCES BETWEEN AGILE, V-MODEL, WATERFALL; AS WELL AS THEIR USE CASES?**
 
 ## SQL Questions
 
-- **WHAT IS A FOREIGN KEY**
+**WHAT IS A FOREIGN KEY**
 
-- **WHAT IS DML/DDL**
+**WHAT IS DML/DDL**
 
 ## Python Questions
 
-- **WHAT IS OOP AND THE FOUR PILLARS**
+**WHAT IS OOP AND THE FOUR PILLARS**
 
-- **CAN YOU GIVE AN EXAMPLE OF WHEN YOU IMPLEMENTED OOP**
+**CAN YOU GIVE AN EXAMPLE OF WHEN YOU IMPLEMENTED OOP**
 
-- **WHAT IS TDD AND HOW HAVE YOU USED IT**
+**WHAT IS TDD AND HOW HAVE YOU USED IT**
 
 ## DevOps Questions
 
-- **WHAT IS DEVOPS**
+**WHAT IS DEVOPS**
 
-- **WHY DEVOPS**
+**WHY DEVOPS**
 
-- **WHY DID YOU CHOOSE DEVOPS**
+**WHY DID YOU CHOOSE DEVOPS**
 
 ## Elevator Pitch
 
