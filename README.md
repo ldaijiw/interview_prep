@@ -74,6 +74,10 @@
 
 - Object Oriented Programming is a programming style that focuses on the usage of objects/data, rather than functions and logic
 - The 4 pillars of OOP are Inheritance, Encapsulation, Abstraction, Polymorphism
+	- Encapsulation involves maintaining a private state within the object, other objects can only interact with the public functions
+	- Abstraction is the process of selecting data from a larger pool to select only the relevant details for the object, and is useful to apply the same info without modifying it to other objects
+	- Inheritance is the ability for one object to acquire specific properties of another object, allowing methods and attributes to be reused in the new, child class. This helps to implement DRY, don't repeat yourself, as code can be reused multiple times
+	- Polymorphism enables us to redefine methods for objects that inherit from another class, allowing for easier modifications for multiple objects that may share the same parent.
 
 **CAN YOU GIVE AN EXAMPLE OF WHEN YOU IMPLEMENTED OOP**
 
