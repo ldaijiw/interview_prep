@@ -109,3 +109,36 @@
 - Throughout all of these enlightening experiences I've realised I'm always trying to work out more efficient ways to complete tasks, and find methods to automate complicated processes that don't need to be done manually, and the variety has helped me find ways to improve my my communication skills and work with anyone.
 - Particularly during my internship I successfully wrote a script to automate a process for teaching staff to drastically reduce the time from potentially 30 minutes down to just 1. The philosophy, mindset, and principles of DevOps really resonated with me.
 - The idea of continuous integration and delivery is fascinating to me and feels very intuitive as a method for software development. I feel DevOps is the perfect path for me to follow as I can quickly pick up the necessary skills and then find ways to maximise efficiency and profits even further.
+
+
+**What are Environments?**
+
+- An environment is where code runs and can be designed for different purposes
+- Virtual environments are a particularly useful tool to keep dependencies required by different projects separate and consistent by creating isolated virtual machine/environments for them
+- So far we've learned a variety of tools to create virtual environments such as
+	- Vagrant and VirtualBox to create and provision V envs locally
+	- EC2 with AWS and Ansible to utilise cloud computing
+
+**What is CI/CD?**
+
+- CI stands for Continuous Integration which involves the automated testing of any new code that is written
+	- Any time a change is made the code is sent to a testing environment
+	- If the new code passes all the tests it is then integrated into the codebase and can move along to the next stage of the pipeline which is CD
+- CD stands for continuous delivery, and involves taking code that has been successfully integrated and automatically moving it to a production-like environment, where new features and changes can be observed
+	- Teams with mature CI/CD pipelines may opt to include continuous deployment, which is a further stage that involves the automated deployment of code onto the live server, ready for the end-users 
+- The main tool we've used to set up pipelines is Jenkins, where we can utilise the source control management of Github to test any new changes that have been pushed to a development branch, and utilising an EC2 instance on AWS as the testing environment  
+
+**What is the Cloud**
+
+- Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user
+- The cloud is especially useful as it gives flexibility and options for businesses, allowing them to invest a small amount for the resources they need and nothing more, with the option to expand or reduce as necessary
+- This and the shared responsibility model, in which the cloud provider is responsible for the physical security of the cloud and the user is responsible for security within the machines they use in the cloud, allows for significantly reduced initial capital expenditure
+
+**What are the problems DevOps is trying to solve? How are we solving them?**
+
+
+
+**What is IAC**
+
+- IAC is infrastructure as code, and is the process of managing and provisioning computer data cenres through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools
+- This allows teams to implement DRY: Don't Repeat Yourself to use tools such as Ansible to easily create multiple EC2 instances with a specific configuration instead of repeatedly configuring it in the AWS console
